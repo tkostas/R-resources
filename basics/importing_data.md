@@ -12,7 +12,7 @@ str(data)
 
 ## or import from excel file
 ```
-#load readxl package (if not installed type first install.packages("readxl"))
+#load readxl package (if not installed type first 'install.packages("readxl")')
 library(readxl)
 
 # check the tab names
