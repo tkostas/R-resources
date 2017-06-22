@@ -1,5 +1,5 @@
 # Importing data into R
-
+## Import from a delimited file
 ```
 data <- read.delim(file.choose(), header = TRUE, sep = "\t", dec = ".")
 ```
