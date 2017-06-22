@@ -12,7 +12,8 @@
     - lists
 - Functions basics
 - [Installing/Loading packages](https://github.com/tkostas/R-resources/blob/master/basics/packages.md)
-- Importing data
+- Loading R files from web
+- [Importing data](https://github.com/tkostas/R-resources/blob/master/basics/importing_data.md)
 - Exporting data
 
 
