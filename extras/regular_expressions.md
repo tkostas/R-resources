@@ -3,7 +3,7 @@
 
 ### regular expressions
 ```
-.   any character except new line, one time
+.   any character except new line, only once
 .+   any character at least once
 ^   in the begining of the string
 $   in the end of the string
