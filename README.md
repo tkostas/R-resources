@@ -20,4 +20,4 @@
 #### Extras
 - Comparisons
 - [Date and time formats](https://github.com/tkostas/R-resources/blob/master/extras/date_formats.md)
-- Regular expressions
+- [Regular expressions](https://github.com/tkostas/R-resources/blob/master/extras/regular_expressions.md)
