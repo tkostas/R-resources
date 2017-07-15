@@ -3,10 +3,12 @@
 
 ### regular expressions
 ```
-.   any character except new line, only once
-.+   any character at least once
-^   in the begining of the string
-$   in the end of the string
+.     any character except new line, only once
+.+    any character at least once
+.*    any character zero or more times
+\\.   "."
+^     in the begining of the string
+$     in the end of the string
 ```
 
 ### see more
