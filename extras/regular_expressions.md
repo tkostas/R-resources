@@ -7,6 +7,7 @@
 .+    any character at least once
 .*    any character zero or more times
 \\.   "."
+\\..+ everything after "."
 ^     in the begining of the string
 $     in the end of the string
 ```

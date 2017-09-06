@@ -1,4 +1,4 @@
-### Installing/Loading packages
+## Installing/Loading packages
 Packages provide set of functions that can help you automate certain processes. To use them, first you need to install the package into your local computer and second to attach/load the package for use.
 
 R packages are stored in repositories, from which uses can download and use. Three options are shown here. The central R repository is [CRAN](https://cran.r-project.org/). A biology-related central repository is [bioconductor](http://www.bioconductor.org). Packages can be also downloaded from [github](http://www.github.com) accounts of the different users. In each case you should use different approaches to download it. To install a package type: 

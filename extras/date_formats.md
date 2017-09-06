@@ -21,3 +21,5 @@
 %Y  4-digits (e.g. 1933)
 %y  2-digits (e.g. 99)
 ```
+
+- [Back to index](https://github.com/tkostas/R-resources/blob/master/README.md)
